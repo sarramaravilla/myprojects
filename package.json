@@ -12,6 +12,7 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@arcgis/core": "^4.27.5"
+    "@arcgis/core": "^4.27.5",
+    "@vitejs/plugin-react": "^4.0.1"
   }
 }
